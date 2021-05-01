@@ -1,0 +1,6 @@
+spring.datasource.username=hanisha
+spring.datasource.password=hanisha
+spring.datasource.url=jdbc:mysql://localhost:3306/photo_app
+spring.jpa.hibernate.ddl-auto=update
+server.error.include-message=always
+tokenSecret=jf9i4jgu83nf1085ppo

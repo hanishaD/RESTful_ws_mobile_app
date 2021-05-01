@@ -1,0 +1,6 @@
+package com.app.ws.security;
+
+@Component
+public class AppProperties {
+
+}

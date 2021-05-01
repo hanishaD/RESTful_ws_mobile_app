@@ -1,0 +1,6 @@
+package com.app.ws.exceptions;
+
+public class UserServiceException extends RuntimeException{
+
+
+}
