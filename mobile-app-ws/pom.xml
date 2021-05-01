@@ -12,7 +12,7 @@
 	<groupId>com.app.ws</groupId>
 	<artifactId>mobile-app-ws</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>							<!-- default is jar -->
+	<packaging>war</packaging>
 	<name>mobile-app-ws</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
